@@ -1,5 +1,6 @@
 # InfraccionesGDL
-
+## Creado por Oscar Alfonso Flores Orozco
+### Saturdays.ai - Guadalajara - 4ta Edición 
 
 El principal objetivo del negocio es promover más lugares para estacionarse en las calles del municipio de Guadalajara, así como evitar el levantamiento de infracciones, ya que en 2021, se registraron más de 156 mil infracciones de 11 tipos diferentes:
 Tipo 1: Omitir la tarifa del parquímetro.
