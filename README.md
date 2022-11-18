@@ -1,21 +1,40 @@
 # InfraccionesGDL
-## Creado por Oscar Alfonso Flores Orozco
-### Saturdays.ai - Guadalajara - 4ta Edición 
+### Saturdays.ai - Guadalajara - 4th Edition 
 
-El principal objetivo del negocio es promover más lugares para estacionarse en las calles del municipio de Guadalajara, así como evitar el levantamiento de infracciones, ya que en 2021, se registraron más de 156 mil infracciones de 11 tipos diferentes:
-Tipo 1: Omitir la tarifa del parquímetro.
-Tipo 2: Invadir dos cajones o más de estacionamiento.
-Tipo 3: Obstruir una cochera.
-Tipo 4: Estacionarse en una intersección o en línea amarilla.
-Tipo 5: Estacionarse en lugares exclusivos, bomberos, policía, servicios médicos o personas con discapacidad.
-Tipo 6: Cordón o batería.
-Tipo 7: Vehículo inmovilizado.
-Tipo 8: Por insultar o agredir verbalmente a un oficial vial.
-Tipo 9: Por abandono de vehículo.
-Tipo 10: Exceder tiempo en los espacios de carga y descarga.
-Tipo 11: Agredir físicamente a un oficial vial.
+The main objective of the business is to promote more places to park on the streets of the municipality of Guadalajara, as well as to avoid the lifting of infractions, since in 2021, more than 156 thousand infractions of 11 different types were registered:
+* Type 1: Bypass the parking meter fee.
+* Type 2: Invading two or more parking spaces.
+* Type 3: Obstruct a garage.
+* Type 4: Parking at an intersection or on a yellow line.
+* Type 5: Parking in exclusive places, firefighters, police, medical services or people with disabilities.
+* Type 6: Cord or battery.
+* Type 7: Immobilized vehicle.
+* Type 8: For insulting or verbally assaulting a road officer.
+* Type 9: Due to vehicle abandonment.
+* Type 10: Exceeding time in the loading and unloading spaces.
+* Type 11: Physically assaulting a traffic officer.
 
 
-Existen dos mercados potenciales muy fuertes dentro de este proyecto, el primero son los conductores en busca de un lugar para estacionarse, ya que suelen recurrir a no pagar una tarifa de parquímetro, o a utilizar espacios que no están designados para el estacionamiento de vehículos, como lo son líneas amarillas, rampas o lugares para discapacitados, espacios para bomberos, policía o servicios médicos, cayendo así en estas infracciones antes descritas, por lo que el poder obtener dichos lugares donde normalmente han sido infraccionados otros conductores anteriormente, ayudará a los futuros conductores a evitar estas infracciones. Por otro lado, el otro mercado potencial será la Secretaría de Movilidad, que podrá obtener un resultado de cuales son las zonas, fechas y horas con más infracciones y poder proponer soluciones a dicho problema vial.
+There are two very strong potential markets within this project, the first is drivers looking for a place to park, since they often resort to not paying a parking meter fee, or to use spaces that are not designated for vehicle parking, such as they are yellow lines, ramps or places for the disabled, spaces for firefighters, police or medical services, thus falling into these violations described above, so being able to obtain these places where other drivers have normally been previously cited will help future drivers to avoid these violations. On the other hand, the other potential market will be the Ministry of Mobility, which will be able to obtain a result of which are the zones, dates and times with the most infractions and be able to propose solutions to said road problem.
 
-Como despliegue de prototipo funcional se decidió realizar un Dashboard para que los dos mercados principales, automovilistas y agentes viales, puedan consultar la información histórica desde 2021 hasta agosto de 2022 de las infracciones. En este dashboard se puede encontrar primeramente información general del equipo que lo desarrolló, donde se observa también el logotipo de Saturdays AI como encabezado, seguido de una pequeña descripción de la problemática que se buscó solucionar en este proyecto. Seguido, se ven los tres tipos de infracciones que se utilizaron como target para este modelo, y la explicación de cada una de las infracciones que se aplican en la ZMG, la cuales se pueden filtrar en las siguientes 4 principales gráficas del Dashboard: Top 50 marcas de vehículos infraccionados, Top 10 de Estado de la placa del vehículo infraccionado, Número de infracciones por día de la semana y Número de infracciones por hora del día. Y finalmente, se encuentra un mapa interactivo donde está registrado geográficamente cada una de las más de 305,000 infracciones que se han registrado a través del sistema que se tiene en la ciudad. Como se mencionó antes, este dashboard puede ser de gran ayuda para los automovilistas de ubicar las zonas donde se aplican regularmente las infracciones de omitir tarifas, buscando así mejorar la educación vial e implementar las buenas prácticas de evitar no pagar un parquímetro, o asimismo ubicar las zonas donde normalmente se están infraccionado por estacionarse en lugares donde no está permitido y así evitar hacerlo. Por otro lado, los agentes viales y la secretaría correspondiente pueden ubicar estas zonas donde hacen falta estacionamientos para los automovilistas y poder llegar así a soluciones en conjunto y lograr una mejor cultura vial. Este dashboard se encuentra disponible en el siguiente link: https://infraccionesgdl.herokuapp.com/
+As a functional prototype deployment, it was decided to make a Dashboard so that the two main markets, motorists and road agents, can consult the historical information from 2021 to August 2022 of the infractions. In this dashboard you can first find general information about the team that developed it, where you can also see the Saturdays AI logo as a header, followed by a short description of the problem that this project sought to solve. Next, the three types of infractions that were used as targets for this model are seen, and the explanation of each of the infractions that are applied in the ZMG, which can be filtered in the following 4 main Dashboard graphs: Top 50 Violated Vehicle Makes, Top 10 Violated Vehicle License Plate Status, Number of Violations by Day of Week, and Number of Violations by Hour of Day. And finally, there is an interactive map where each of the more than 305,000 infractions that have been registered through the city's system is geographically registered. As mentioned before, this dashboard can be of great help to motorists to locate the areas where skip fare infractions are regularly applied, thus seeking to improve driver education and implement good practices to avoid not paying a parking meter, or also locate the areas where they are normally infracted for parking in places where it is not allowed and thus avoid doing so. On the other hand, road agents and the corresponding secretariat can locate these areas where there is a lack of parking for motorists and thus be able to reach joint solutions and achieve a better road culture. This dashboard is available at the following link: https://infraccionesgdl.herokuapp.com/
+
+## Author
+Oscar Alfonso Flores Orozco.
+
+Financial Engineer from ITESO.
+
+Data Science Supervisor at Herbalife Nutrition Mexico.
+
+Guadalajara, México.
+
+## License
+**GNU General Public License v3.0** 
+
+*Permissions of this strong copyleft license are conditioned on making available 
+complete source code of licensed works and modifications, which include larger 
+works using a licensed work, under the same license. Copyright and license notices 
+must be preserved. Contributors provide an express grant of patent rights.*
+
+## Contact
+*For more information in reggards of this repo, please contact me by email oscaralfonsofloreso@hotmail.com or [LinkedIn](https://www.linkedin.com/in/oscar-alfonso-flores-orozco/)*
