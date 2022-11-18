@@ -1,8 +1,4 @@
-# Dash Default Template: infraccionesgdl
-
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your infraccionesgdl app.
-
-See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
+# Dash: infraccionesgdl
 
 ## Running the App
 
