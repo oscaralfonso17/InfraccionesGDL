@@ -1,4 +1,5 @@
-<img align="left" width="100" height="100" src="[http://www.fillmurray.com/100/100](https://user-images.githubusercontent.com/31071493/202862636-43e074b6-a526-45a3-8a6e-628a5f40d70e.png)">
+![Guadalajara](https://user-images.githubusercontent.com/31071493/202862662-10186d1f-e8e0-4423-8a6c-a8559d2520cb.png?classes=float-left)
+
 
 # InfraccionesGDL
 ### Saturdays.ai - Guadalajara - 4th Edition 
