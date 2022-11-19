@@ -1,6 +1,8 @@
 # InfraccionesGDL
 ### Saturdays.ai - Guadalajara - 4th Edition 
 
+![Guadalajara](https://user-images.githubusercontent.com/31071493/202862541-e2e015a9-0693-4e50-982e-78794888265f.png)
+
 The main objective of the business is to promote more places to park on the streets of the municipality of Guadalajara, as well as to avoid the lifting of infractions, since in 2021, more than 156 thousand infractions of 11 different types were registered:
 * Type 1: Bypass the parking meter fee.
 * Type 2: Invading two or more parking spaces.
