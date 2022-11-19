@@ -1,6 +1,3 @@
-![Guadalajara](https://user-images.githubusercontent.com/31071493/202862662-10186d1f-e8e0-4423-8a6c-a8559d2520cb.png =100x20)
-
-
 # InfraccionesGDL
 ### Saturdays.ai - Guadalajara - 4th Edition 
 
